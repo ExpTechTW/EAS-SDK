@@ -1,17 +1,21 @@
-# 模板
+# ESAS
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
 
-- 這是一個 ExpTech Github 模板
+- ExpTech-Service-Account-SDK ( ExpTech 帳戶服務 SDK )
 
 ## 索引
+- [文檔](#文檔)
 - [貢獻者](#貢獻者)
 - [發佈規則](#發佈規則)
 - [合作](#合作)
 
+## 文檔
+用於處理 ExpTech 相關 `帳戶服務` 的 開發包
+
 ## 貢獻者
-- whes1015 `文檔`
+- whes1015 `程式開發` `文檔`
 
 ------
 
