@@ -3,7 +3,7 @@
 
 ------
 
-- ExpTech-Service-Account-SDK ( ExpTech 帳戶服務 SDK )
+- ExpTech Account Service SDK ( ExpTech 帳戶服務 SDK )
 
 ## 索引
 - [文檔](#文檔)
