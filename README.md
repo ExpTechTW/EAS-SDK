@@ -1,4 +1,4 @@
-# ESAS
+# EAS-SDK
 <img alt="Discord" src="https://img.shields.io/discord/926545182407688273">
 
 ------
