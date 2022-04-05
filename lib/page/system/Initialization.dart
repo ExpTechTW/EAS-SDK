@@ -70,7 +70,7 @@ class _InitializationPage extends State<InitializationPage> {
         logInfo("連線到 API 服務器...");
         _load = "連線到 API 服務器...";
         setState(() {});
-        var data = await NetWork('{}');
+        var data = await NetWork('{"Info":true}');
         if (data["service"]["state"] == "Unstable" ||
             data["service"]["state"] == "Busy") {
           logWarning('API server state: ' + data["service"]["state"]);
